@@ -1,0 +1,6 @@
+{
+  "name": "YouTube",
+  "description": "YouTube clone for Android streaming live videos, channels, comments, and votes via the Pips Tube API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

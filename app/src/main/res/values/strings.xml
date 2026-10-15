@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="login_title">Sign in</string>
+    <string name="register_title">Create Account</string>
+    <string name="feed_title">Home</string>
+    <string name="explore_title">Explore</string>
+    <string name="subscriptions_title">Subscriptions</string>
+    <string name="library_title">Library</string>
+</resources>
